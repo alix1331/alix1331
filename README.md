@@ -9,10 +9,3 @@
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=An%20idiot%20admires%20complexity%2C%20a%20genius%20admires%20simplicity%2C%20a%20physicist%20tries%20to%20make%20it%20simple%2C%20for%20an%20idiot%20anything%20the%20more%20complicated%20it%20is%20the%20more%20he%20will%20admire%20it%2C%20if%20you%20make%20something%20so%20clusterfucked%20he%20can%27t%20understand%20it%20he%27s%20gonna%20think%20you%27re%20a%20god%20cause%20you%20made%20it%20so%20complicated%20nobody%20can%20understand%20it.%20That%27s%20how%20they%20write%20journals%20in%20Academics%2C%20they%20try%20to%20make%20it%20so%20complicated%20people%20think%20you%27re%20a%20genius&author=Terry%20A.%20Davis)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alix1331&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=alix1331&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
