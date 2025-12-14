@@ -7,5 +7,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alix1331&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=An%20idiot%20admires%20complexity%2C%20a%20genius%20admires%20simplicity%2C%20a%20physicist%20tries%20to%20make%20it%20simple&author=Terry%20A.%20Davis)
+> "An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfed he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius."  
+> — Terry A. Davis
